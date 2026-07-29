@@ -1,4 +1,4 @@
-// Last updated: 7/29/2026, 9:27:58 AM
+// Last updated: 7/29/2026, 9:28:00 AM
 1class Solution {
 2    public String smallestPalindrome(String s, int k) {
 3        int n = s.length();
